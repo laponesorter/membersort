@@ -486,7 +486,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "iss" ],
       type: ["digi"],
-      year: ["23"]    }
+      year: ["24"]    }
     },
   {
     name: "YOLO-konde",
@@ -494,6 +494,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "iss" ],
       type: ["digi"],
-      year: ["23"]    }
+      year: ["24"]    }
     }
 ];
