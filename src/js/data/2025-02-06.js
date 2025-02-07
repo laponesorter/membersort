@@ -20,28 +20,28 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Yonashiro Sho",
-    img: "c5DqpgX.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/11_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
   },
   {
     name: "Kawashiri Ren",
-    img: "c5DqpgX.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/2_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
   },
   {
     name: "Shiroiwa Ruki",
-    img: "c5DqpgX.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/8_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
   },
   {
     name: "Kono Junki",
-    img: "c5DqpgX.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/6_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ],
       nameless: true
@@ -49,21 +49,21 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sato Keigo",
-    img: "c5DqpgX.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/7_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
   },
   {
     name: "Kawanishi Takumi",
-    img: "ptGp0x4.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/3_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
   },
   {
     name: "Kimata Syoya",
-    img: "vBKdDm4.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/4_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ],
       nameless: true
@@ -71,28 +71,28 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ohira Shosei",
-    img: "A7ZnuHo.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/1_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
   },
   {
     name: "Kinjo Sukai",
-    img: "sgZPf11.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/5_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
   },
   {
     name: "Tsurubo Shion",
-    img: "8UX7hKE.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/9_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
   },
   {
     name: "Mamehara Issei",
-    img: "OhaDcnc.png",
+    img: "https://jo1.jp/static/produce101/feature/profile/202501/person/10_pFnyw7f5.jpg",
     opts: {
       series: [ "jo1" ]
     }
@@ -218,77 +218,77 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Momona",
-    img: "ceo4DhK.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/4.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Ran",
-    img: "2YDuTk3.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/2.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Cocoro",
-    img: "3zo4VKV.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/5.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Miu",
-    img: "8TLXMST.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/6.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Shizuku",
-    img: "IImsp7K.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/1.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Ayane",
-    img: "MZXJQq5.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/9.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Keiko",
-    img: "aX4WIH8.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/8.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Kokona",
-    img: "nPBvatH.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/7.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Rinon",
-    img: "3pDRgvR.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/10.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Suzu",
-    img: "bV0DaN7.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/11.jpg",
     opts: {
       series: ["mei"]
     }
   },
   {
     name: "Tsuzumi",
-    img: "J11NjNj.png",
+    img: "https://me-i.jp/static/produce101thegirls/artistphoto/Xyrk7EhAJuHp/3.jpg",
     opts: {
       series: ["mei"]
     }
