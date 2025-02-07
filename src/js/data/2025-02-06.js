@@ -319,8 +319,6 @@ dataSet[dataSetVersion].characterData = [
     img: "https://is-sue.jp/static/issue/assets/artist_photo/2nd_M4xERmLq/rin.jpg",
     opts: {
       series: ["iss"],
-      notgirl: true,
-      nameless: true
     }
   }
-];
+]
