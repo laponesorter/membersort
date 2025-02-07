@@ -123,77 +123,77 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kimura Masaya",
-    img: "MgzqjFK.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/c6d18a76254c89f544bced726dd77515.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Nishi Hiroto",
-    img: "ohmetZh.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/b59c09d421b42546385836d02c6ffd24.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Xu Fengfan",
-    img: "aDIf0pN.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/45cc1faca94779c112dfb748962bd139.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Tajima Shogo",
-    img: "2Pr8b2N.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/13833398c54199d338809145f21396c2.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Takatsuka Hiromu",
-    img: "htOMdDQ.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/a0e77b514b9de2685367e81ed52be471.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Goto Takeru",
-    img: "PrRPujP.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/216666836184402658eed6b535c9662f.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Ozaki Takumi",
-    img: "ze79bFC.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/f3bc93bdf64d3bcafc2e78109519914c.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Fujimaki Kyosuke",
-    img: "WMjyRLJ.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/eb34b0a1d8c7812a628788d02958bf3c.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Sano Yudai",
-    img: "VT9mTGb.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/4374498e955ca9617193df10a5d3cc73.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Ikezaki Rihito",
-    img: "rshnJPV.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/dc80520180bacd9841cfc156fdf6e2cc.jpeg",
     opts: {
       series: [ "ini" ]
     }
   },
   {
     name: "Matsuda Jin",
-    img: "qsceD4I.png",
+    img: "https://ini-official.com//static/produce101s2/contents/upimg/5e0194eb9218f33600101e8deaf84186.jpeg",
     opts: {
       series: [ "ini" ]
     }
