@@ -321,4 +321,4 @@ dataSet[dataSetVersion].characterData = [
       series: ["iss"],
     }
   }
-]
+];
