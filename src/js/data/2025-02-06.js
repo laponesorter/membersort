@@ -295,28 +295,28 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nano",
-    img: "4Ufced2.png",
+    img: "https://is-sue.jp/static/issue/assets/artist_photo/2nd_M4xERmLq/nano.jpg",
     opts: {
       series: ["iss"]
     }
   },
   {
     name: "Rino",
-    img: "qGMjnYk.png",
+    img: "https://is-sue.jp/static/issue/assets/artist_photo/2nd_M4xERmLq/rino.jpg",
     opts: {
       series: ["iss"]
     }
   },
   {
     name: "Yuuki",
-    img: "ATTRSWU.png",
+    img: "https://is-sue.jp/static/issue/assets/artist_photo/2nd_M4xERmLq/yuuki.jpg",
     opts: {
       series: ["iss"]
     }
   },
   {
     name: "Rin",
-    img: "nQ78Lz7.png",
+    img: "https://is-sue.jp/static/issue/assets/artist_photo/2nd_M4xERmLq/rin.jpg",
     opts: {
       series: ["iss"],
       notgirl: true,
