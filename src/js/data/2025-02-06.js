@@ -6,13 +6,13 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Group",
     key: "series",
     tooltip: "Check this to restrict to certain groups.",
-    checked: false,
+    checked: true,
     sub: [
-      { name: "JO1", key: "book" },
-      { name: "INI", tooltip: "01 - Reiiden", key: "ini" },
-      { name: "DXTEEN", tooltip: "02 - Fuumaroku", key: "dxt" },
-      { name: "ME:I", tooltip: "03 - Yumejikuu", key: "mei" },
-      { name: "IS:SUE", tooltip: "04 - Gensoukyou", key: "iss" },
+      { name: "JO1", key: "jo1" },
+      { name: "INI", key: "ini" },
+      { name: "DXTEEN", key: "dxt" },
+      { name: "ME:I", key: "mei" },
+      { name: "IS:SUE", key: "iss" },
     ]
   }
 ];
