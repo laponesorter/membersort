@@ -176,42 +176,42 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Taniguchi Taichi",
-    img: "pLdMjQ3.png",
+    img: "https://dxteen.com/static/dxteen/contents/upimg/lu/taichi_O1rbaQnf.jpg",
     opts: {
       series: [ "dxt" ]
     }
   },
   {
     name: "Fukuda Ayuta",
-    img: "PrYzRcC.png",
+    img: "https://dxteen.com/static/dxteen/contents/upimg/lu/ayuta_Jt38jSqu.jpg",
     opts: {
       series: [ "dxt" ]
     }
   },
   {
     name: "Terao Koshin",
-    img: "8DLUAPf.png",
+    img: "https://dxteen.com/static/dxteen/contents/upimg/lu/koshin_Fr5qkzy4.jpg",
     opts: {
       series: [ "dxt" ]
     }
   },
   {
     name: "Okubo Nalu",
-    img: "6KyhLqE.png",
+    img: "https://dxteen.com/static/dxteen/contents/upimg/lu/nalu_Nhw1su56.jpg",
     opts: {
       series: [ "dxt" ]
     }
   },
   {
     name: "Hiramoto Ken",
-    img: "99w0Chm.png",
+    img: "https://dxteen.com/static/dxteen/contents/upimg/lu/ken_oEa92hw1.jpg",
     opts: {
       series: [ "dxt" ]
     }
   },
   {
     name: "Tanaka Shotaro",
-    img: "yqNfNje.png",
+    img: "https://dxteen.com/static/dxteen/contents/upimg/lu/shotaro_W91jg5al.jpg",
     opts: {
       series: [ "dxt" ]
     }
