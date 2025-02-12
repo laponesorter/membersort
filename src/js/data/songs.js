@@ -433,23 +433,23 @@ dataSet[dataSetVersion].characterData = [
       year: ["22"]    }
     },
   {
-    name: "aaa",
+    name: "Rocketeer",
     img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
     opts: {
       group: [ "ini" ],
-      type: ["digi"],
+      type: ["aside"],
       year: ["23"]    }
     },
 {
-    name: "aaaa",
+    name: "Make It Count",
     img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
     opts: {
       group: [ "ini" ],
       type: ["digi"],
-      year: ["23"]    }
+      year: ["25"]    }
     },
   {
-    name: "aaaaa",
+    name: "Brand New Day",
     img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
     opts: {
       group: [ "dxt" ],
@@ -465,35 +465,43 @@ dataSet[dataSetVersion].characterData = [
       year: ["25"]    }
     },
   {
-    name: "YOLO-konde",
+    name: "CLICK",
     img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
     opts: {
       group: [ "mei" ],
-      type: ["digi"],
+      type: ["aside"],
       year: ["23"]    }
     },
   {
-    name: "YOLO-konde",
+    name: "Cookie Party",
     img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
     opts: {
       group: [ "mei" ],
-      type: ["digi"],
+      type: ["bside"],
       year: ["23"]    }
     },
-    {
-    name: "YOLO-konde",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
+  {
+    name: "THE FLASH GIRL",
+    img: "https://s3-aop.plusmember.jp/prod/public/issue/contents/discography/726c37b603e22f88fb9fa3e83fd8da9d.jpeg",
     opts: {
       group: [ "iss" ],
-      type: ["digi"],
+      type: ["aside"],
       year: ["24"]    }
     },
   {
-    name: "YOLO-konde",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
+    name: "Breaking Thru the Line",
+    img: "https://s3-aop.plusmember.jp/prod/public/issue/contents/discography/726c37b603e22f88fb9fa3e83fd8da9d.jpeg",
     opts: {
       group: [ "iss" ],
-      type: ["digi"],
+      type: ["bside"],
       year: ["24"]    }
+    },
+  {
+    name: "MUSE",
+    img: "https://s3-aop.plusmember.jp/prod/public/issue/contents/discography/726c37b603e22f88fb9fa3e83fd8da9d.jpeg",
+    opts: {
+      group: [ "mei" ],
+      type: ["aside"],
+      year: ["25"]    }
     }
 ];
