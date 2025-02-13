@@ -357,7 +357,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Run&Go",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8b02b75e660b84c173cc7a1147763105.jpeg",
+    img: "https://i.scdn.co/image/ab67616d00001e023cdd7d475c0ac6f47338b873",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -366,7 +366,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Prologue",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8f92cde00ea24a27c2586a25597a7a7c.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b2730db7d785db96816d530de5a1",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -375,7 +375,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bokura no Kisetsu",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/bca1c4162d442d516f6257e554e6f06b.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Wandering_Normal_Edition_cover.jpeg/220px-Wandering_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["aside"],
@@ -384,7 +384,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "OASIS",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/bca1c4162d442d516f6257e554e6f06b.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Wandering_Normal_Edition_cover.jpeg/220px-Wandering_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -393,7 +393,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "We Alright",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/bca1c4162d442d516f6257e554e6f06b.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Wandering_Normal_Edition_cover.jpeg/220px-Wandering_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -402,7 +402,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Infinite City",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/bca1c4162d442d516f6257e554e6f06b.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Wandering_Normal_Edition_cover.jpeg/220px-Wandering_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -411,7 +411,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Never Ending Story",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/bca1c4162d442d516f6257e554e6f06b.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Wandering_Normal_Edition_cover.jpeg/220px-Wandering_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -420,7 +420,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dreamer",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/9928032bca589c951f680024f6538629.jpeg",
+    img: "https://static.wikia.nocookie.net/lapone/images/7/76/Dreamer.jpg/revision/latest/thumbnail/width/360/height/360?cb=20231231223157",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -429,7 +429,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Toberu Kara",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/a3089a5fb12cec4840319195c98697bf.jpeg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGjG62_eKcsdTERqMu-2Ott1oTFSRLFDTKg&s",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -438,7 +438,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Move the Soul",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/582dfcc22fe15cc8b422fa9c99ab17fb.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b27379612a3f548ea7cb418bb2c7",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -447,7 +447,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "YOLO-konde",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
+    img: "https://static.wikia.nocookie.net/lapone/images/a/a8/YOLO-konde.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -456,7 +456,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "Rocketeer",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
+    img: "https://static.wikia.nocookie.net/ini/images/e/e7/A_Regular_Edition.png",
     opts: {
       group: [ "ini" ],
       type: ["aside"],
@@ -465,7 +465,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Make It Count",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
+    img: "https://i.scdn.co/image/ab67616d00001e02c7e32b8d8f888ce9d03105b4",
     opts: {
       group: [ "ini" ],
       type: ["digi"],
@@ -474,43 +474,43 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "Brand New Day",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
+    img: "https://m.media-amazon.com/images/I/51ZA5zz3abL._UXNaN_FMjpg_QL85_.jpg",
     opts: {
       group: [ "dxt" ],
-      type: ["digi"],
-      year: ["25"] 
+      type: ["aside"],
+      year: ["23"] 
     }
     },
   {
-    name: "adsfdsf",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
+    name: "Come Over",
+    img: "https://m.media-amazon.com/images/I/51ZA5zz3abL._UXNaN_FMjpg_QL85_.jpg",
     opts: {
       group: [ "dxt" ],
-      type: ["digi"],
-      year: ["25"]
-    }
-    },
-  {
-    name: "CLICK",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
-    opts: {
-      group: [ "mei" ],
       type: ["aside"],
       year: ["23"]
     }
     },
   {
+    name: "CLICK",
+    img: "https://static.wikia.nocookie.net/me-i/images/a/a7/MIRAI_RE.jpg",
+    opts: {
+      group: [ "mei" ],
+      type: ["aside"],
+      year: ["24"]
+    }
+    },
+  {
     name: "Cookie Party",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/0ffe901d2f05ffae2c26e9fc78565fa1.jpeg",
+    img: "https://images.genius.com/df323ddcd3f59db65352e89a72b31c59.760x760x1.jpg",
     opts: {
       group: [ "mei" ],
       type: ["bside"],
-      year: ["23"]
+      year: ["24"]
     }
     },
   {
     name: "THE FLASH GIRL",
-    img: "https://s3-aop.plusmember.jp/prod/public/issue/contents/discography/726c37b603e22f88fb9fa3e83fd8da9d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b273d2f5bbe822d53210c3c0877d",
     opts: {
       group: [ "iss" ],
       type: ["aside"],
@@ -519,7 +519,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "Breaking Thru the Line",
-    img: "https://s3-aop.plusmember.jp/prod/public/issue/contents/discography/726c37b603e22f88fb9fa3e83fd8da9d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b273d2f5bbe822d53210c3c0877d",
     opts: {
       group: [ "iss" ],
       type: ["bside"],
@@ -528,7 +528,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "MUSE",
-    img: "https://s3-aop.plusmember.jp/prod/public/issue/contents/discography/726c37b603e22f88fb9fa3e83fd8da9d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b273d2f5bbe822d53210c3c0877d",
     opts: {
       group: [ "mei" ],
       type: ["aside"],
