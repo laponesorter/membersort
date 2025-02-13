@@ -96,7 +96,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "OH-EH-OH",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/a02ec31abbb91af6e521566e8b333caf.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/a/a2/Stargazer_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["aside"],
@@ -105,7 +105,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "So What",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/a02ec31abbb91af6e521566e8b333caf.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/a/a2/Stargazer_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -114,7 +114,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Voice (君の声)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/a02ec31abbb91af6e521566e8b333caf.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/a/a2/Stargazer_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -123,7 +123,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "My Friends",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/a02ec31abbb91af6e521566e8b333caf.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/a/a2/Stargazer_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -132,7 +132,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "GO",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/a02ec31abbb91af6e521566e8b333caf.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/a/a2/Stargazer_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -141,7 +141,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "KungChiKiTa (JO1 ver.)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/a02ec31abbb91af6e521566e8b333caf.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/a/a2/Stargazer_Normal_Edition_cover.jpeg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -150,7 +150,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shine A Light",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8d6135d01d251b2eaf61c05e94f5150d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b2734ebf1e3edcdebee19cc2074a",
     opts: {
       group: [ "jo1" ],
       type: ["aside"],
@@ -159,7 +159,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Starlight",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8d6135d01d251b2eaf61c05e94f5150d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b2734ebf1e3edcdebee19cc2074a",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -168,7 +168,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Safety Zone",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8d6135d01d251b2eaf61c05e94f5150d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b2734ebf1e3edcdebee19cc2074a",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -177,7 +177,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "YANCHA BOY YANCHA GIRL (JO1 ver.)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8d6135d01d251b2eaf61c05e94f5150d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b2734ebf1e3edcdebee19cc2074a",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -186,7 +186,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Happy Merry Christmas (JO1 ver.)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8d6135d01d251b2eaf61c05e94f5150d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b2734ebf1e3edcdebee19cc2074a",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -195,7 +195,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "MONSTAR",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8d6135d01d251b2eaf61c05e94f5150d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b2734ebf1e3edcdebee19cc2074a",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -204,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Be With You",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/8d6135d01d251b2eaf61c05e94f5150d.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b2734ebf1e3edcdebee19cc2074a",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -213,7 +213,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Voice (君の声) - From THE FIRST TAKE",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/48c85ed1e88b04c85eb87bfb8a1f49e8.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b27366c13b5fad8fdfe6d1bd6f49",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -222,7 +222,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "無限大 - From THE FIRST TAKE",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/5fe271d88cdb441569754a6353e94d04.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b27366c13b5fad8fdfe6d1bd6f49",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -240,7 +240,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Born To Be Wild",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/65f1af56b7ea9a66749c392acd7eb284.png",
+    img: "https://upload.wikimedia.org/wikipedia/en/0/0f/Challenger_Normal_Edition_cover.png",
     opts: {
       group: [ "jo1" ],
       type: ["aside"],
@@ -249,7 +249,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "君のまま (Kimi no Mama)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/65f1af56b7ea9a66749c392acd7eb284.png",
+    img: "https://upload.wikimedia.org/wikipedia/en/0/0f/Challenger_Normal_Edition_cover.png",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -258,7 +258,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Design",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/65f1af56b7ea9a66749c392acd7eb284.png",
+    img: "https://upload.wikimedia.org/wikipedia/en/0/0f/Challenger_Normal_Edition_cover.png",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -267,7 +267,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Speed of Light",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/65f1af56b7ea9a66749c392acd7eb284.png",
+    img: "https://upload.wikimedia.org/wikipedia/en/0/0f/Challenger_Normal_Edition_cover.png",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -276,7 +276,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Get Inside Me",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/65f1af56b7ea9a66749c392acd7eb284.png",
+    img: "https://upload.wikimedia.org/wikipedia/en/0/0f/Challenger_Normal_Edition_cover.png",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -285,7 +285,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dreaming Night",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/784a6235293ce254d56af4ffe4b7e214.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b273bd4740fc498285add50ab9e3",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -294,7 +294,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Freedom",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/e75ae753257eba8c603039f2a8fde837.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b27328cc293f885d6fa8d03e1ac2",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -303,7 +303,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "REAL",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/ccd7502825e82903ff5e9d526eda7d56.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/5/5c/Stranger_Normal_Edition_cover.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["aside"],
@@ -312,7 +312,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "STAY",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/ccd7502825e82903ff5e9d526eda7d56.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/5/5c/Stranger_Normal_Edition_cover.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -321,7 +321,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "ICARUS",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/ccd7502825e82903ff5e9d526eda7d56.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/5/5c/Stranger_Normal_Edition_cover.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -330,7 +330,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blooming Again",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/ccd7502825e82903ff5e9d526eda7d56.jpeg",
+    img: "https://upload.wikimedia.org/wikipedia/en/5/5c/Stranger_Normal_Edition_cover.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -339,7 +339,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "GrandMaster(Band Ver.)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/5a8bf9cbc496b120c8e8a266cd121062.jpeg",
+    img: "https://i.scdn.co/image/ab67616d0000b273f012c15361eede9dea9184f5",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
@@ -348,7 +348,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "OH-EH-OH(Band Ver.)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/d242d872f969e2b75e845d168e9ec989.jpeg",
+    img: "https://i.scdn.co/image/ab67616d00001e02c674510e174c5bf1ccc8bfba",
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
