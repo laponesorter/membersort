@@ -42,7 +42,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "無限大 (Mugendai)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/28419d1d8dfe5d74a3e8e6fc94e8b100.jpeg",
+    img: "https://images.genius.com/2992ef7d5cc29030240cb5b240bc3239.500x494x1.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["aside"],
@@ -51,7 +51,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Running",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/28419d1d8dfe5d74a3e8e6fc94e8b100.jpeg",
+    img: "https://images.genius.com/2992ef7d5cc29030240cb5b240bc3239.500x494x1.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -60,7 +60,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "La Pa Pa Pam",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/28419d1d8dfe5d74a3e8e6fc94e8b100.jpeg",
+    img: "https://images.genius.com/2992ef7d5cc29030240cb5b240bc3239.500x494x1.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -69,7 +69,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "TSUKAME ～It's Coming～ (JO1 ver.)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/28419d1d8dfe5d74a3e8e6fc94e8b100.jpeg",
+    img: "https://images.genius.com/2992ef7d5cc29030240cb5b240bc3239.500x494x1.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -78,7 +78,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "GrandMaster (JO1 ver.)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/28419d1d8dfe5d74a3e8e6fc94e8b100.jpeg",
+    img: "https://images.genius.com/2992ef7d5cc29030240cb5b240bc3239.500x494x1.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -87,7 +87,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "YOUNG (JO1 ver.)",
-    img: "https://s3-aop.plusmember.jp/prod/public/produce101/contents/discography/28419d1d8dfe5d74a3e8e6fc94e8b100.jpeg",
+    img: "https://images.genius.com/2992ef7d5cc29030240cb5b240bc3239.500x494x1.jpg",
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
@@ -253,7 +253,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }
+      year: ["21"]
+    }
   },
   {
     name: "Design",
@@ -261,7 +262,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }
+      year: ["21"]
+    }
   },
   {
     name: "Speed of Light",
@@ -269,7 +271,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    } 
+      year: ["21"]
+    } 
   },
   {
     name: "Get Inside Me",
@@ -277,7 +280,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    } 
+      year: ["21"]
+    } 
   },
   {
     name: "Dreaming Night",
@@ -294,7 +298,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["21"]    }
+      year: ["21"]
+    }
   },
   {
     name: "REAL",
@@ -302,7 +307,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["aside"],
-      year: ["21"]    }
+      year: ["21"]
+    }
   },
   {
     name: "STAY",
@@ -310,7 +316,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }    
+      year: ["21"]
+    }    
   },
   {
     name: "ICARUS",
@@ -318,7 +325,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }    
+      year: ["21"]
+    }    
   },
   {
     name: "Blooming Again",
@@ -326,7 +334,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }    
+      year: ["21"]
+    }    
   },
   {
     name: "GrandMaster(Band Ver.)",
@@ -334,7 +343,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["21"]    }    
+      year: ["21"]
+    }    
   },
   {
     name: "OH-EH-OH(Band Ver.)",
@@ -342,7 +352,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["21"]    }    
+      year: ["21"]
+    }    
   },
   {
     name: "Run&Go",
@@ -350,7 +361,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["21"]    }    
+      year: ["21"]
+    }    
   },
   {
     name: "Prologue",
@@ -358,7 +370,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["21"]    }    
+      year: ["21"]
+    }    
   },
   {
     name: "Bokura no Kisetsu",
@@ -366,7 +379,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["aside"],
-      year: ["21"]    }    
+      year: ["21"]
+    }    
   },
   {
     name: "OASIS",
@@ -374,7 +388,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }
+      year: ["21"]
+    }
   },
   {
     name: "We Alright",
@@ -382,7 +397,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }
+      year: ["21"]
+    }
   },
   {
     name: "Infinite City",
@@ -390,7 +406,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }
+      year: ["21"]
+    }
   },
   {
     name: "Never Ending Story",
@@ -398,7 +415,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["bside"],
-      year: ["21"]    }
+      year: ["21"]
+    }
   },
   {
     name: "Dreamer",
@@ -406,7 +424,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["22"]    }
+      year: ["22"]
+    }
   },
   {
     name: "Toberu Kara",
@@ -414,7 +433,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["22"]    }
+      year: ["22"]
+    }
   },
   {
     name: "Move the Soul",
@@ -422,7 +442,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["22"]    }
+      year: ["22"]
+    }
     },
   {
     name: "YOLO-konde",
@@ -430,7 +451,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "jo1" ],
       type: ["digi"],
-      year: ["22"]    }
+      year: ["22"]
+    }
     },
   {
     name: "Rocketeer",
@@ -438,7 +460,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "ini" ],
       type: ["aside"],
-      year: ["23"]    }
+      year: ["23"]
+    }
     },
 {
     name: "Make It Count",
@@ -446,7 +469,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "ini" ],
       type: ["digi"],
-      year: ["25"]    }
+      year: ["25"]
+    }
     },
   {
     name: "Brand New Day",
@@ -454,7 +478,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "dxt" ],
       type: ["digi"],
-      year: ["25"]    }
+      year: ["25"] 
+    }
     },
   {
     name: "adsfdsf",
@@ -462,7 +487,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "dxt" ],
       type: ["digi"],
-      year: ["25"]    }
+      year: ["25"]
+    }
     },
   {
     name: "CLICK",
@@ -470,7 +496,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "mei" ],
       type: ["aside"],
-      year: ["23"]    }
+      year: ["23"]
+    }
     },
   {
     name: "Cookie Party",
@@ -478,7 +505,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "mei" ],
       type: ["bside"],
-      year: ["23"]    }
+      year: ["23"]
+    }
     },
   {
     name: "THE FLASH GIRL",
@@ -486,7 +514,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "iss" ],
       type: ["aside"],
-      year: ["24"]    }
+      year: ["24"]
+    }
     },
   {
     name: "Breaking Thru the Line",
@@ -494,7 +523,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "iss" ],
       type: ["bside"],
-      year: ["24"]    }
+      year: ["24"]
+    }
     },
   {
     name: "MUSE",
@@ -502,6 +532,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "mei" ],
       type: ["aside"],
-      year: ["25"]    }
+      year: ["25"]
     }
+    },
 ];
