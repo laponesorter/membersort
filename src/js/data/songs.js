@@ -5,7 +5,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Filter by Group",
     key: "group",
-    checked: false,
+    checked: true,
     sub: [
       { name: "JO1", key: "jo1" },
       { name: "INI", key: "ini" },
