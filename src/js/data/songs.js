@@ -460,7 +460,34 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "ini" ],
       type: ["aside"],
+      year: ["21"]
+    }
+    },
+{
+    name: "Brighter",
+    img: "https://static.wikia.nocookie.net/ini/images/6/6f/A_Limited_Edition_B.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["21"]
+    }
+    },
+{
+    name: "Cardio",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
       year: ["23"]
+    }
+    },
+{
+    name: "KILLING PART",
+    img: "https://static.wikia.nocookie.net/ini/images/6/6f/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["21"]
     }
     },
 {
