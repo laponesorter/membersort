@@ -478,7 +478,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       group: [ "ini" ],
       type: ["bside"],
-      year: ["23"]
+      year: ["21"]
     }
     },
 {
@@ -509,7 +509,7 @@ dataSet[dataSetVersion].characterData = [
     }
     },
 {
-    name: "Brighter Acoustic Ver.",
+    name: "Brighter (Acoustic Ver.)  ",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
       group: [ "ini" ],
@@ -540,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
       group: [ "ini" ],
-      type: ["aside"],
+      type: ["bside"],
       year: ["22"]
     }
     },
@@ -692,7 +692,7 @@ dataSet[dataSetVersion].characterData = [
     }
     },
 {
-    name: "New Day!!",
+    name: "New Day",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
       group: [ "ini" ],
