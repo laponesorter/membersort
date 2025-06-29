@@ -483,7 +483,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "KILLING PART",
-    img: "https://static.wikia.nocookie.net/ini/images/6/6f/A_Limited_Edition_A.png",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
       group: [ "ini" ],
       type: ["bside"],
@@ -491,11 +491,554 @@ dataSet[dataSetVersion].characterData = [
     }
     },
 {
+    name: "RUNWAY (INI ver.)",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["21"]
+    }
+    },
+{
+    name: "ONE (INI ver.)",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["21"]
+    }
+    },
+{
+    name: "Brighter Acoustic Ver.",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["21"]
+    }
+    },
+{
+    name: "How are you",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["21"]
+    }
+    },
+{
+    name: "CALL 119",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "We Are",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "BOMBARDA",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "DILEMMA",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "AMAZE ME",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "Polaroid",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "Yummy!!",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["22"]
+    }
+    },
+{
+    name: "Password",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "STRIDE",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "Shooting Star",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "Mirror",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "HERO",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["22"]
+    }
+    },
+{
+    name: "SPECTRA",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "Dramatic",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "BAD BOYZ",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+
+{
+    name: "Do What You Like",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+
+{
+    name: "Runaway",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+
+{
+    name: "Let Me Fly〜その未来へ〜(INI Ver.)",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["22"]
+    }
+    },
+{
+    name: "New Day!!",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["23"]
+    }
+    },
+  {
+    name: "FANFARE",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["23"]
+    }
+    },
+{
+    name: "Let's Escape",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["23"]
+    }
+    },
+{
+    name: "INItialize",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["23"]
+    }
+    },
+{
+    name: "DROP",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["23"]
+    }
+    },
+{
+    name: "My Story",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["23"]
+    }
+    },
+{
+    name: "Moment",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["23"]
+    }
+    },
+{
+    name: "Busterz",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["23"]
+    }
+    },
+{
+    name: "HANA_花",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["23"]
+    }
+    },
+{
+    name: "TAG",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["23"]
+    }
+    },
+{
+    name: "10 THINGS",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["23"]
+    }
+    },
+{
+    name: "YOU IN",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["23"]
+    }
+    },
+{
+    name: "LEGIT",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "MORE",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "T-Shirt",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "Dirty Shoes Swag",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "TELEVISION",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "Ferris Wheel",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "Whatever Happens",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["24"]
+    }
+    },
+{
+    name: "LOUD",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "Walkie Talkie",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "3D",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "I'm a Dreamer",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "FIRST",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["24"]
+    }
+    },
+{
+    name: "Break of Dawn",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["24"]
+    }
+    },
+{
+    name: "WMDA (Where My Drums At)",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "ONE NIGHT",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "HI-DE-HO",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },
+{
+    name: "Drip Drop",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["24"]
+    }
+    },  
+{
     name: "Make It Count",
     img: "https://i.scdn.co/image/ab67616d00001e02c7e32b8d8f888ce9d03105b4",
     opts: {
       group: [ "ini" ],
       type: ["digi"],
+      year: ["25"]
+    }
+    },
+{
+    name: "BREATH (TAKUMI, MASAYA, TAKERU, YUDAI, KYOSUKE)",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["25"]
+    }
+    },
+{
+    name: "Howlin' (RIHITO, FENGFAN, HIROMU, SHOGO, HIROTO, JIN)",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["25"]
+    }
+    },
+{
+    name: "PARTY GOES ON",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["digi"],
+      year: ["25"]
+    }
+    },
+  {
+    name: "DOMINANCE",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["aside"],
+      year: ["25"]
+    }
+    },
+ {
+    name: "Potion",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["25"]
+    }
+    },
+{
+    name: "Bullseye",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["25"]
+    }
+    },
+  {
+    name: "Non-Stop",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["25"]
+    }
+    },
+  {
+    name: "What A Night",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
+      year: ["25"]
+    }
+    },
+  {
+    name: "Pineapple Juice",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    opts: {
+      group: [ "ini" ],
+      type: ["bside"],
       year: ["25"]
     }
     },
@@ -508,6 +1051,7 @@ dataSet[dataSetVersion].characterData = [
       year: ["23"] 
     }
     },
+
   {
     name: "Come Over",
     img: "https://m.media-amazon.com/images/I/51ZA5zz3abL._UXNaN_FMjpg_QL85_.jpg",
